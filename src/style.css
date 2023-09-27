@@ -1,10 +1,10 @@
 :root {
-  --primary: #ea40a4;
-  --business: #3a82ee;
+  --primary: #632ecd;
+  --business: #00bbff;
   --personal: var(--primary);
   --light: #eee;
   --grey: #888;
-  --dark: #313154;
+  --dark: #472f68;
   --danger: #ff5b57;
 
   --shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
@@ -30,7 +30,7 @@ button {
 }
 
 body {
-  background: var(--light);
+  background-image: url(./img/bg.jpg);
   color: var(--dark);
 }
 
